@@ -6,3 +6,10 @@ progressive web app
 
 3) the core feature of pwa is push notification
 
+4)and an icon like a native app
+
+5) and some some cache files in case of offline
+
+6)means it give us offline support for just files as well to maintain the look like native mobile app
+
+7) but Actually it is a pure web app.
